@@ -4,4 +4,8 @@ __pycache__/
 *.pyc
 .DS_Store
 *.pkl
-/dados/
+/dados/*
+/dados/**/*
+!dados/.gitkeep
+!dados/bruto/.gitkeep
+!dados/processado/.gitkeep
