@@ -51,5 +51,5 @@ classificador-mastite-iot/
    - O app remove a coluna `ID` antes de inferir, mostra classe prevista (0 = Mastite, 1 = Saudável) e probabilidade de mastite.
 
 ## Referências
-- GHAFOOR, Naeem Abdul; SITKOWSKA, Beata. MasPA: a machine learning application to predict risk of mastitis in cattle from AMS sensor data. *AgriEngineering*, Basel, v. 3, n. 3, p. 575-583, 2021. DOI: 10.3390/agriengineering3030037.
+- GHAFOOR, Naeem Abdul; SITKOWSKA, Beata. MasPA: a machine learning application to predict risk of mastitis in cattle from AMS sensor data. *AgriEngineering*, Basel, v. 3, n. 3, p. 575-583, 2021. DOI: 10.3390/agriengineering3030037. Acesso em: 10 dez. 2025.
 - Repositório original relacionado: https://github.com/naeemmrz/MasPA.py
